@@ -1,2 +1,2 @@
 # COVID-SegNet
-COVID-19 Segmentation on Chest CT Images Using Deep Convolutional Neural Network
+COVID-19 Chest CT Image Segmentation — A Deep Convolutional Neural Network Solution
